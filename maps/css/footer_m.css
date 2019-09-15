@@ -1,0 +1,32 @@
+
+/*footer css*/
+
+/*
+.container{
+	width: 100%;
+	position: absolute;
+	padding: 20px;
+	background: rgb(186, 244, 255);
+}
+*/
+footer{
+	margin-left: -18%;
+
+}
+
+.social-icon{
+    margin-top: 30px;
+}
+
+.social-icon li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    padding-right: 70px;
+    margin-left: -60px;
+    list-style-type: none;
+}
+
+.copyright{
+	margin-top: 40px;
+}

@@ -1,0 +1,70 @@
+
+
+insert into image (img) VALUES ('images/food/갈치조림.jpg'),
+('images/food/강된장보리돌솥비빔밥.jpg' ),
+('images/food/개똥쑥강된장찌개.jpg' ),
+('images/food/고구마치즈돈까스.jpg' ),
+('images/food/고창장어탕.jpg' ),
+('images/food/고창추어탕.jpg' ),
+('images/food/곤드레열무돌솥비빔밥.jpg' ),
+('images/food/국산콩된장뚝배기.jpg' ),
+('images/food/꼬막돌솥비빔밥.jpg' ),
+('images/food/꼬막비빔밥.jpg' ),
+('images/food/낙지덮밥.jpg' ),
+('images/food/능이버섯국밥.jpg' ),
+('images/food/다슬기버섯된장찌개.jpg' ),
+('images/food/단양마늘약초갈비탕.jpg' ),
+('images/food/닭가슴살 퓨전 포도밥.jpg' ),
+('images/food/대구육개장.jpg' ),
+('images/food/대나무잎영양맑은곰탕.jpg' ),
+('images/food/사과돈가스.jpg' ),
+('images/food/장유흑돼지김치찌개.jpg' ),
+('images/food/창녕양파제육덮밥.jpg' ),
+('images/food/천지한우국밥.jpg' ),
+('images/food/청국장.jpg' ),
+('images/food/청매실재첩비빔밥.jpg' ),
+('images/food/콩나물국밥.jpg' ),
+('images/food/평양온반.jpg' ),
+('images/food/표고우렁된장찌개.jpg' ),
+('images/food/한방닭곰탕.jpg' ),
+('images/food/한방우불고기.jpg' ),
+('images/food/한우국밥.jpg' ),
+('images/food/한우떡더덕스테이크.jpg' ),
+('images/food/한우소머리곰탕.jpg' ),
+('images/food/한우소머리국밥.jpg' ),
+('images/food/한우우거지국밥.jpg' ),
+('images/food/해물된장찌개.jpg' ),
+('images/food/해물순두부백반.jpg' ),
+('images/food/해물순두부찌개정식.jpg' ),
+('images/food/해물순두부찌게.jpg' ),
+('images/food/해물영양솥밥.jpg' ),
+('images/food/해물짬뽕밥.jpg' ),
+('images/food/행담도집밥.jpg' ),
+('images/food/황태국밥.jpg' ),
+('images/food/황태해장국.jpg' ),
+('images/food/횡성한우스테이크.jpg' )
+;
+
+insert into image (img) VALUES ('images/food/고추장찌개.jpg');
+insert into image (img) VALUES ('images/food/순대국밥.jpg');
+insert into image (img) VALUES ('images/food/칼국수.jpg');
+insert into image (img) VALUES ('images/food/고등어조림.jpg');
+insert into image (img) VALUES ('images/food/도리뱅뱅.jpg');
+insert into image (img) VALUES ('images/food/국밥.jpg');
+insert into image (img) VALUES ('images/food/돼지찌개.jpg');
+insert into image (img) VALUES ('images/food/동태탕.jpg');
+insert into image (img) VALUES ('images/food/재첩국.jpg');
+insert into image (img) VALUES ('images/food/굴밥.jpg');
+insert into image (img) VALUES ('images/food/제육덮밥.jpg');
+insert into image (img) VALUES ('images/food/볶음밥.jpg');
+insert into image (img) VALUES ('images/food/알밥.jpg');
+insert into image (img) VALUES ('images/food/연포탕.jpg');
+insert into image (img) VALUES ('images/food/이미지준비중.jpg');
+insert into image (img) VALUES ('images/food/매생이.jpg');
+insert into image (img) VALUES ('images/food/애호박찌개.jpg');
+insert into image (img) VALUES ('images/food/설렁탕.jpg');
+insert into image (img) VALUES ('images/food/닭개장.jpg');
+insert into image (img) VALUES ('images/food/닭갈비덮밥.jpg');
+insert into image (img) VALUES ('images/food/백연밥상.jpg');
+insert into image (img) VALUES ('images/food/오리묵은지치즈가스.jpg') ;
+insert into image (img) VALUES ('images/food/시래기돌솥밥.jpg') ;

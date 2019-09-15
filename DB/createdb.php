@@ -1,0 +1,18 @@
+<?php
+include_once 'dbconfig.php';
+
+// Create database
+$sql = "CREATE DATABASE dbpj DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;";
+
+if($conn->query($sql) === TRUE){
+	echo "Database testdb created successfully";
+	echo "<br/><a href='create_table.php'>Click to create a table !</a>";
+}else{
+	echo "Error creating database: ";
+	echo "<br/>";
+	echo $conn->error;
+}
+
+$conn->close();
+?>
+

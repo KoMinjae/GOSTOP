@@ -1,0 +1,21 @@
+/* Search css*/
+
+#map_canvas{
+	width:50%;
+	height:70%; 
+	float:left; 
+	display: inline; 
+	margin-top: 35px;
+	margin-left:30px;
+	margin-right: 2%;
+	margin-bottom: 5%;
+}
+
+#food_inform{
+	float:left; 
+	display: inline; 
+	margin-top: 35px;
+	margin-right:30px;
+	margin-left: 2%;
+	margin-bottom: 5%;
+}
